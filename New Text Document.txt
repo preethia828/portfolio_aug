@@ -1,0 +1,6 @@
+=> remove bg => site for removing background
+=> for download a file(like download cv in button ) set a dwnld attribute
+=> pseudo class => selector:hover{....} (example)
+
+=>grid(**)
+
